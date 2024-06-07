@@ -19,7 +19,7 @@ To perform training or inference of method on top either of the two baselines, p
 
 
 
-### Data and Model weights
+### Data & Model Weights
 About the data inlcuding the flows from AVSBench and extended flows, please check the `PREPARATION.md` to download.
 
 About the model weights, we release all weights based on TPAVI and AVSegFormer on both subsets of AVSBench, please check the `PREPARATION.md` for download links.
