@@ -1,0 +1,4 @@
+# ninja log v5
+1	5709	1697275999195066584	/remote-home/share/yikunliu/AVSegFormer-master/ops/build/temp.linux-x86_64-cpython-39/remote-home/share/yikunliu/AVSegFormer-master/ops/src/cpu/ms_deform_attn_cpu.o	44dad24accdb9c5e
+2	17712	1697276011210811966	/remote-home/share/yikunliu/AVSegFormer-master/ops/build/temp.linux-x86_64-cpython-39/remote-home/share/yikunliu/AVSegFormer-master/ops/src/vision.o	d32b0378bdcb03a9
+2	21088	1697276014601307373	/remote-home/share/yikunliu/AVSegFormer-master/ops/build/temp.linux-x86_64-cpython-39/remote-home/share/yikunliu/AVSegFormer-master/ops/src/cuda/ms_deform_attn_cuda.o	82688f4447905d85

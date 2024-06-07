@@ -1,0 +1,3 @@
+# ninja log v5
+1	22815	1698061963140863538	/remote-home/share/yikunliu/AVSegFormer-master/model/backbone/kernels/window_process/build/temp.linux-x86_64-cpython-38/swin_window_process.o	79dd06085274c4c1
+2	54386	1698061994709512988	/remote-home/share/yikunliu/AVSegFormer-master/model/backbone/kernels/window_process/build/temp.linux-x86_64-cpython-38/swin_window_process_kernel.o	8952a4065d3e967
