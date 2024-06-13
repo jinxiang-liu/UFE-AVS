@@ -15,7 +15,7 @@ Our proposed method is versatile for all the existing AVS methods theoretically;
 Therefore, our implementation is also based on the authors' released codes and we express our thanks to them.
 Please check their original repositries for more environment configuration details.
 
-To perform training or inference of method on top of either of the two baselines, please enter the corresponding directory and run the scripts.
+To perform training or inference of our method on top of either of the two baselines, please enter the corresponding directory and run the scripts.
 
 
 
