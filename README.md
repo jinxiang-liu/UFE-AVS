@@ -29,10 +29,12 @@ About the model weights, we release all weights based on TPAVI and AVSegFormer o
 ***********
 ## Citation
 ```txt
-@article{liu2024audio,
-  title={Audio-Visual Segmentation via Unlabeled Frame Exploitation},
-  author={Liu, Jinxiang and Liu, Yikun and Zhang, Fei and Ju, Chen and Zhang, Ya and Wang, Yanfeng},
-  journal={arXiv preprint arXiv:2403.11074},
-  year={2024}
+@InProceedings{Liu_2024_CVPR,
+    author    = {Liu, Jinxiang and Liu, Yikun and Zhang, Fei and Ju, Chen and Zhang, Ya and Wang, Yanfeng},
+    title     = {Audio-Visual Segmentation via Unlabeled Frame Exploitation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {26328-26339}
 }
 ```
